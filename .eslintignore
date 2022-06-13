@@ -1,2 +1,4 @@
 node_moodules
 coverage
+public
+*.scss
